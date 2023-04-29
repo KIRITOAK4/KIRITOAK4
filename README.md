@@ -1,4 +1,4 @@
-<h1> <href="https://github.com/kirito99-7/Kiritoak4/blob/master/resources/codes.webp" width="70px"> Hᴇʏ Tʜᴇʀᴇ, Tʜɪs Is ʏᴜɪᴛᴏᴀᴋᴀsʜ </h1>
+<h1> <href="https://github.com/kiritoak4/Kiritoak4/blob/master/resources/codes.webp" width="70px"> Hᴇʏ Tʜᴇʀᴇ, Tʜɪs Is ʏᴜɪᴛᴏᴀᴋᴀsʜ </h1>
 
 <p align="center">
 <img src="https://telegra.ph/file/3d52117daaab1ad921278.jpg">
@@ -16,7 +16,9 @@
 </p>
 
 
-<video src="https://github.com/KIRITOak4/KIRITOak4/blob/main/resources/ping.mp4" controls></video>
+<video width="320" height="240" controls>
+  <source src="https://github.com/KIRITOak4/KIRITOak4/blob/main/resources/ping.mp4" type="video/mp4">
+</video>
 <img src="https://github.com/KIRITOak4/KIRITOak4/blob/main/resources/hr.gif"/>
 
 <h1> <href="https://github.com/kiritoak4/Kiritoak4/blob/master/resources/anon.webp" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
