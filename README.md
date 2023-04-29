@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>TELEGRAM.ME/KIRIGAYAYUKI</title>
-</head>
-<body>
 	<h1>Hey There, This Is Yuitoakash</h1>
 	<p align="center">
 		<img src="https://telegra.ph/file/3d52117daaab1ad921278.jpg">
