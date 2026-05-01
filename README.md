@@ -1,106 +1,24 @@
-<h1 align="center">Hi 👋, I'm 𝙆𝙄𝙍𝙄𝙏𝙊</h1>
+# 💫 About Me:
+I am a student focused on learning and building in the field of software development. <br>I have developed Telegram bots and worked on web applications, with a growing interest in automation and scalable systems.
 
-<p align="center">
-  <i>Building automation. Exploring systems. Becoming better every day.</i>
-</p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/kiritoak4/count.svg" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arcana._.04) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/AKASH04kumar123an) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talk96034@gmail.com) 
 
-<p align="center">
-  <a href="https://t.me/YUITOAKASH">
-    <img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge&logo=telegram"/>
-  </a>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KIRITOAK4&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KIRITOAK4&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KIRITOAK4&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KIRITOAK4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h2 align="center">⚡ Tech & Proficiency</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,git" />
-</p>
-
-<p align="center">
-  Python → Intermediate ⚡ <br/>
-  Web (HTML/CSS/JS) → Beginner 🌱 <br/>
-  Automation & Bots → Growing Expertise 🚀
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=KIRITOAK4&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/kiritoak4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritoak4&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kiritoak4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiritoak4&repo=YOUR_SECOND_REPO&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Insights</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiritoak4&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiritoak4&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiritoak4&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">📈 Activity Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiritoak4&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kiritoak4/kiritoak4/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h2 align="center">⚙️ What I Build</h2>
-
-<p align="center">
-  🤖 Telegram Automation Bots <br/>
-  📥 Media Download Systems <br/>
-  📄 PDF Processing Tools <br/>
-  🌐 Web Utilities & Experiments <br/>
-</p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
-
-<p align="center">
-  Scaling Telegram bots to real-world use <br/>
-  Improving backend logic & performance <br/>
-  Building complete applications instead of scripts <br/>
-</p>
-
----
-
-<h2 align="center">🔥 Philosophy</h2>
-
-<p align="center">
-  “Small improvements every day → Big results over time.”
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
